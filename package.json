@@ -1,0 +1,12 @@
+{
+  "name": "org-bela-fila-bot",
+  "version": "1.0.0",
+  "description": "Bot de Filas de Apostas - ORG BELA Free Fire",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
